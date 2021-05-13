@@ -310,7 +310,7 @@
         "forceUpdateTag": "2",
          "settings": {
             "configuration": {
-                "url": "https://boring-mcnulty-0267d6.netlify.app/azure-dsc.zip",
+                "url": "https://boring-mcnulty-0267d6.netlify.app/azure-dsc-old.zip",
                 "script": "OctopusTentacle.ps1",
                 "function": "OctopusTentacle"
             },

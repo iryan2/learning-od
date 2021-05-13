@@ -21,7 +21,7 @@
       "value": "API-OBN8ZF1KDMKA0Y2D7QP75CLPX32X6CVS"
     },
     "tentacleCommunicationMode": {
-      "value": "Listen"
+      "value": "Poll"
     },
     "tentaclePort": {
       "value": 10943
