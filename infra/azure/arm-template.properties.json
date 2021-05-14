@@ -9,7 +9,7 @@
       "value": "MySuperSecretPassw0rd"
     },
     "vmDnsName": {
-      "value": "myprodvm2"
+      "value": "myprodvm4"
     },
     "vmSize": {
       "value": "Standard_D2_v2"
@@ -18,7 +18,7 @@
       "value": "https://learning.octopus.app"
     },
     "tentacleApiKey": {
-      "value": "API-OBN8ZF1KDMKA0Y2D7QP75CLPX32X6CVS"
+      "value": "API-CBY3VL8SP3BVRZDKE9SCDPMW9YF3U6D7"
     },
     "tentacleCommunicationMode": {
       "value": "Poll"
