@@ -14,7 +14,7 @@ configuration OctopusTentacle
 
             # Tentacle instance name. Leave it as 'Tentacle' unless you have more
             # than one instance
-            Name = "Tentacle"
+            Name = "TentacleProd"
 
             # Registration - all parameters required
             ApiKey = $ApiKey
